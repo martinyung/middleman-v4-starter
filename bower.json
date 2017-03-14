@@ -15,7 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "susy": "^2.2.12",
-    "font-awesome": "fontawesome#^4.7.0"
+    "susy": "^2.2.12"
   }
 }
