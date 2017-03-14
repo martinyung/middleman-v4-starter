@@ -1,0 +1,21 @@
+{
+  "name": "middleman-starter",
+  "description": "starter with susy, bootstrap, jquery and fontawesome configured using bower",
+  "main": "",
+  "authors": [
+    "martin"
+  ],
+  "license": "nil",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "susy": "^2.2.12",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
