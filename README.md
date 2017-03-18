@@ -1,10 +1,10 @@
 # Middleman V4 Starter
-Middleman V4 has update the [asset pipeline](https://middlemanapp.com/advanced/external-pipeline/) and thus making alot of ruby gems not working.
+Middleman V4 has updated the [asset pipeline](https://middlemanapp.com/advanced/external-pipeline/) and thus making alot of ruby gems not working.
 
 Here's a simple starter for activating sprockets and integrating jquery, susy and bootstrap using bower
 
-**This starter include:**
-* [Livereload](http://livereload.com): automatically refresh your browser whenever you edit your files.
+**This starter includes:**
+* [Livereload](http://livereload.com): Automatically refresh your browser whenever you edit your files.
 * [Slim](http://slim-lang.com): A lightweight templating engine.
 * [Bower](http://bower.io): A package manager for the web.
 * [Sass](http://sass-lang.com): Syntactically Awesome Style Sheets
