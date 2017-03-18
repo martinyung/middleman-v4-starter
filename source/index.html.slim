@@ -1,5 +1,13 @@
 h1
   | 80% container using susy
+p click the button below and i will disappear (jquery test)
 button.btn.btn-primary Bootstrap Test
 br
 i.fa.fa-pencil-square-o Font-awesome Test
+
+javascript:
+	$(document).ready(function(){
+    $("button").click(function(){
+      $("p").hide();
+    });
+	});
